@@ -1,1 +1,35 @@
+Tema 2  Algoritmos y diagramas de flujo
+#Algoritmo
+Secuencia ordena de pasos que resuelve un  problema especific
 
+###Caracteristicas
+Correcion (sin errores)
+Precision 
+Repetividad
+Finitud
+Eficiencia
+
+### Ejemplo
+
+a) Algoritmo para lavarse los dientes
+
+1. Iniciio
+2. Colocar pasta en el cepillo de dientes
+3. Cepillar los molares en forma circular
+4. Cepillar los dientes superiores en direccion hacia abajo
+5. Cepillar los dientes inferiores en direccion hacia arriba 
+6. Limpiar la lengua
+7. Enjuagarse la boca
+8. (opcional) usar enjuage bucal
+9. Limpiar los excesos de pasta y enjuague
+10. Fin
+
+b) Envar una paloma mensajera (incorrecto)
+
+1. Inicio
+2. Conseguir una paloma mensajera
+3.Escribir un mensaje en papel
+4 Colocar el mensaje en el cinturon de la paloma 
+5. Enviar la paloma a su destino
+6. Esperar respuesta 
+7. Fin 
